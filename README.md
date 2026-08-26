@@ -93,7 +93,7 @@ The process included:
 
 ## 📈 Dashboard Preview
 
-![Sales Dashboard](https://github.com/user-attachments/assets/7f0c6e09-b365-459b-b65a-77c4c2cc4025)
+![Sales Dashboard](sales-dashboard-overview.png)
 
 ---
 
