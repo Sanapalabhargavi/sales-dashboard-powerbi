@@ -99,16 +99,15 @@ The process included:
 
 ## 💡 Key Insights
 
-The dashboard helps identify:
+Based on the dashboard analysis:
 
-- Overall sales and profitability trends
-- Regional differences in sales performance
-- Best-performing product categories
-- High-performing sub-categories
-- Customer segment contribution
-- Monthly sales patterns
-
----
+- 💰 The dashboard reports **$733.22K in total sales** and **$93.44K in total profit**, with a **12.74% profit margin**.
+- 🏆 **Technology** is the highest-performing category, generating approximately **$271.73K in sales (37.06%)**.
+- 📊 **Office Supplies** contributes approximately **$246.46K (33.56%)**, while Furniture contributes approximately **$215.39K (29.38%)**.
+- 👥 The **Consumer segment** contributes the largest share of sales at approximately **45.27%**.
+- 🗺️ The **West region** shows the highest sales performance among the regions displayed in the dashboard.
+- 📱 **Phones** is the highest-selling sub-category in the displayed analysis, followed by Chairs and Binders.
+- 📈 The monthly sales trend shows noticeable fluctuations, indicating opportunities to investigate periods of stronger and weaker performance.
 
 ## 📂 Files Included
 
