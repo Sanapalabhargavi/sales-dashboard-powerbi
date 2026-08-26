@@ -114,7 +114,7 @@ Based on the dashboard analysis:
 | File | Description |
 |---|---|
 | `sales-dashboard.pbix` | Power BI dashboard file |
-| `Sample - Superstore (1).xlsx` | Dataset used for analysis |
+| `superstore-sales-data.xlsx` | Dataset used for analysis |
 | `README.md` | Project documentation |
 
 ---
